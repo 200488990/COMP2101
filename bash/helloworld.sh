@@ -1,3 +1,5 @@
 #!/bin/bash
 
-Hello World!
+"Hello World!"
+
+exit
